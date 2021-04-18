@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MargelGC
 - 👀 I’m interested in JavaScript, CSS3, Html, Angular.js.
-- 🌱 I’m currently learning JavaScript full, Máster in CSS3.
+- 🌱 I’m currently learning JavaScript full, Máster in CSS3, React.js, Redux, Node.js.
 - 💞️ I’m looking to collaborate on frontend developments, web innovations.
 - 📫 How to reach me ... margelcastro.com
 
